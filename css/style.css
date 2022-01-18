@@ -1,0 +1,247 @@
+/************************************************************************************
+ *             CODE EDIT BY NAZMUL HAQUE 
+************************************************************************************/
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-family: serif;
+	font-size: 14px;
+	line-height: 24px;
+	height: 1500px;
+	margin: 0 auto;	
+}
+h1, h2, h3 ,h4 ,h5 ,h6{
+	font-family: sans-serif;
+}
+a, a:hover{
+	text-decoration: none;
+}
+/*********************************************************************************
+*                      Quick project css code stsrt*
+*
+************************************************************************************/
+
+/************************************************************************************
+ *                       global css code start
+************************************************************************************/
+.container{
+	width: 1140px;
+	margin: 0px auto;
+}
+.row{
+	width: 100%;
+	float: left;
+}.col-6{
+	width: 50%;
+	float: left;
+}
+.col-12{
+	width: 100%;
+	float: left;
+}
+.header img{
+	margin-top: 23px;
+	padding-right: 300px;
+}
+.col-4{
+	width: 33.33%;
+	float: left;
+}
+/************************************************************************************
+ *                       global css code end
+************************************************************************************/
+
+/************************************************************************************
+ *                 header start
+************************************************************************************/
+.header{
+	width:100%;
+	float: left;
+	border-bottom: 2px solid #eee;
+	text-align: center;
+}
+.nav{
+	width: 100%;
+	height: 70px;
+	margin-top: 23px;
+}
+.nav li{
+	list-style: none;
+	display: inline-block;
+}
+.nav li a{
+	text-decoration: none;
+	font-family: serif;
+	font-size: 20px;
+	line-height: 30px;
+	font-weight: 400;
+	padding: 40px 20px;
+	color: #0f2656;	
+}
+.nav li a:hover{
+	color: #008AFF;
+}
+/************************************************************************************
+ *                 header end
+************************************************************************************/
+
+/************************************************************************************
+ *                 banner start
+************************************************************************************/
+.banner h2 span{
+	color:#1E90FF;
+}
+.banner h2{
+	color:#0F2656;
+	text-align: center;
+	font-size: 45px;
+	line-height: 55px;
+	margin-top: 23px;
+}
+.banner p{
+	text-align: center;
+	font-size: 16px;
+	line-height: 26px;
+}
+.banner img{
+	margin-top: 40px;
+	margin-left: 150px;
+}
+/************************************************************************************
+ *                 banner end
+************************************************************************************/
+
+/************************************************************************************
+ *                   Successfull start
+************************************************************************************/
+.Successfull{
+	width: 100A%;
+	float: left;
+	padding: 20px 0px;
+}
+.Successfull .left-text{
+	width: 100%;
+	float: left;
+}
+.Successfull .left-text h1{
+	font-size: 52px;
+	line-height: 62px;
+	text-align: right;
+	color:red;
+	margin: 0px 0px 0px 0px;
+}
+.Successfull .left-text p{
+	font-size: 16px;
+	line-height: 26px;
+	text-align: right;
+	color: ;	
+}
+.Successfull .right-text{
+	width: 100%;
+	float: left;
+	padding: 0px 25px;
+	margin: 0px 30px 0px 0px;
+}
+.Successfull .right-text h2{
+	font-size: 52px;
+	line-height: 62px;
+	text-align: left;
+	color:#0F2656;
+	margin: 0px 30px 0px 0px;
+}
+
+/************************************************************************************
+ *                   Successfull end
+************************************************************************************/
+
+
+/************************************************************************************
+ *                   Successfull start
+************************************************************************************/
+.feature{
+	width: 100%;
+	float: left;
+	padding: 40px 0px;
+}
+.feature .inner-feature{
+    width: 80%;
+	float: left;
+	padding:50px 30px;
+}
+.feature .inner-feature img{
+	width: 95%;
+	height: 190px;
+	margin: 0px 0px 10x;
+}
+.feature .inner-feature h5{
+	font-size: 22px;
+	line-height: 32px;
+	color: #0F2656;
+	margin: 0px 0px 10x;
+}
+.feature .inner-feature p{
+	font-size: 16px;
+	line-height: 26px;
+	color: #0F2656;
+	margin: 0px;
+}
+.cl1{
+	background-color:#FDEBED ;
+}
+.cl-2{
+	background-color:#EBFAFA;
+}
+.cl-3{
+	background-color:#FFF7E8;
+}
+/************************************************************************************
+ *                   Successfull end
+************************************************************************************/
+/*.cl1{
+	background-color:#FDEBED ;
+}
+.cl-2{
+	background-color:#EBFAFA;
+}
+.cl3{
+	background-color:#FFF7E8;
+}*/
+/************************************************************************************
+ *                        footer start
+************************************************************************************/
+.footer{
+	width: 100%;
+	float: left;
+	background-color: #1E90FF;
+}
+.message{
+	height: 90px;
+
+	
+
+}
+.message p{
+	font-size: 20px;
+	line-height: 30px;
+	color:#00FFFF;	
+}
+.message span{
+	font-size: 25px;
+	line-height: 35px;
+	text-transform: uppercase;
+	letter-spacing:5px;
+	color: white;
+}
+.message p{
+	margin: 60px 0px;
+	text-align: center;	
+	
+	
+		
+}
+/************************************************************************************
+ *                        footer end
+************************************************************************************/
+
